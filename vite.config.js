@@ -7,5 +7,4 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
-  base: "/deck-of-cards/build/",
 });
