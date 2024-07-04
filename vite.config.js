@@ -7,5 +7,5 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
-  base: "http://github.com/RachitaTripathi/",
+  base: "https://rachitatripathi.github.io/deck-of-cards/",
 });
